@@ -9,7 +9,7 @@
 <br>
 
 <!-- TOP BADGES -->
-![Visitors](https://komarev.com/ghpvc/?username=aijob888&color=59bbe5&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitors](https://komarev.com/ghpvc/?username=AIJobpublic&color=59bbe5&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 [![Website](https://img.shields.io/badge/🌐_aijob.com.tw-LIVE-59bbe5?style=for-the-badge)](https://aijob.com.tw)
 &nbsp;
@@ -166,7 +166,7 @@ const aijob = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aijob888&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/AIJobpublic)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AIJobpublic&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/AIJobpublic)
 
 </div>
 
@@ -190,8 +190,8 @@ const aijob = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aijob888&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=59bbe5&icon_color=59bbe5&text_color=c9d1d9&hide_border=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aijob888&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=59bbe5&fire=59bbe5&currStreakLabel=59bbe5" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AIJobpublic&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=59bbe5&icon_color=59bbe5&text_color=c9d1d9&hide_border=false" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AIJobpublic&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=59bbe5&fire=59bbe5&currStreakLabel=59bbe5" />
 
 </div>
 
@@ -200,7 +200,7 @@ const aijob = {
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aijob888&bg_color=0d1117&color=59bbe5&line=59bbe5&point=ffffff&area_color=59bbe5&area=true&hide_border=true)](https://github.com/AIJobpublic)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AIJobpublic&bg_color=0d1117&color=59bbe5&line=59bbe5&point=ffffff&area_color=59bbe5&area=true&hide_border=true)](https://github.com/AIJobpublic)
 
 </div>
 
@@ -236,11 +236,11 @@ const aijob = {
 <div align="center">
 
 <a href="https://github.com/AIJobpublic/threads-auto-publisher">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aijob888&repo=threads-auto-publisher&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=59bbe5&icon_color=8b949e&text_color=c9d1d9" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AIJobpublic&repo=threads-auto-publisher&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=59bbe5&icon_color=8b949e&text_color=c9d1d9" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/AIJobpublic/aijob-seo-audit">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=aijob888&repo=aijob-seo-audit&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=59bbe5&icon_color=8b949e&text_color=c9d1d9" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AIJobpublic&repo=aijob-seo-audit&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=59bbe5&icon_color=8b949e&text_color=c9d1d9" />
 </a>
 
 </div>

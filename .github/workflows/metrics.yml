@@ -19,7 +19,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/general.svg
-          user: jacky6658
+          user: AIJobpublic
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Taipei
@@ -43,7 +43,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics/achievements.svg
-          user: jacky6658
+          user: AIJobpublic
           template: classic
           base: ""
           plugin_achievements: yes
