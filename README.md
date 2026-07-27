@@ -190,8 +190,7 @@ const aijob = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AIJobpublic&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=59bbe5&icon_color=59bbe5&text_color=c9d1d9&hide_border=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AIJobpublic&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=59bbe5&fire=59bbe5&currStreakLabel=59bbe5" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api?username=AIJobpublic&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=59bbe5&icon_color=59bbe5&text_color=c9d1d9&hide_border=false" />
 
 </div>
 
